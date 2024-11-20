@@ -81,10 +81,6 @@ accuracy = np.mean(predictions == test_labels)
 print(f"Accuracy on the test data: {accuracy:.4f}")
 ```
 
-## License
-
-[Add your chosen license here]
-
 ## Contributing
 
 Feel free to open issues or submit pull requests for improvements.
